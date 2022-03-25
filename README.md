@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zwluizwz
 - 👀 I’m interested in working abroad 
-- 🌱 I’m currently learning several languagens and computer science in a universaty 
-- 💞️ I’m looking to collaborate in games projects
-- 📫 How to reach me zwluizmarcelowz@gmail.com
+- 🌱 I’m currently learning several languages and computer science at a university. 
+- 📫 How to reach me luizmipc@gmail.com
 
 <!---
 zwluizwz/zwluizwz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
