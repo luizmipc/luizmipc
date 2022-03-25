@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zwluizwz
-- 👀 I’m interested in working abroad 
+- 👋 Hi, I’m @luizmipc
+- 👀 I’m interested in working abroad. 
 - 🌱 I’m currently learning several languages and computer science at a university. 
 - 📫 How to reach me luizmipc@gmail.com
 
