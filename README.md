@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luizmipc
 - 👀 I’m interested in working abroad. 
 - 🌱 I’m currently learning several languages and computer science at a university. 
-- 📫 How to reach me luizmipc@gmail.com
+- 📫 How to reach me luizmipc.contato@gmail.com
 
 <!---
 zwluizwz/zwluizwz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
