@@ -1,6 +1,5 @@
 - 👋 Olá!
 
-<!---
-zwluizwz/zwluizwz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p style="text-align: justify;">
+I'm a Full-Stack Developer, a member of <a href="https://fuzzylab.tech/">FuzzyLab</a> innovation team, and a Computer Science Student (6/8).
+</p>
