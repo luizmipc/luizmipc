@@ -12,7 +12,7 @@
 🎓 I'm currently learning <strong>Spring</strong> Framework Java/Kotlin and <strong>PHP</strong>
 </p>
 
-<h2 align="center">🔧 Stack Tech 🔧</h2>
+<h2 align="center">🔧 Tech Stack 🔧</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,docker,javascript,bootstrap" />
