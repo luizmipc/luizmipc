@@ -18,11 +18,3 @@
     <img src="https://skillicons.dev/icons?i=django,docker,javascript,bootstrap" />
   </a>
 </p>
-
-<p align="center">
-🐍 I'm currently working with <strong>Django</strong>, <strong>Docker</strong>, and <strong>Bootstrap</strong>
-</p>
-
-<p align="center">
-🌺 I'm currently learning <strong>Spring</strong> Framework Java/Kotlin and <strong>PHP</strong>
-</p>
