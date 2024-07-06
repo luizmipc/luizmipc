@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-🎓 I'm currently learning Spring Framework Java/Kotlin and PHP
+🎓 I'm currently learning <strong>Spring</strong> Framework Java/Kotlin and <strong>PHP</strong>
 </p>
 
 <h2 align="center">🔧 Stack Tech 🔧</h2>
