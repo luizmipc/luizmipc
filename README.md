@@ -1,7 +1,7 @@
 # 👓 luizmipc
 
 <p align="center">
-🌝 I'm a full-stack developer, a member of <a href="https://fuzzylab.tech/">FuzzyLab</a> innovation team, and a computer science student
+🌝 I'm a full-stack developer, a member of <a href="https://fuzzylab.tech/">FuzzyLab</a> <strong>innovation team</strong>, and a computer science student
 </p>
 
 <p align="center">
