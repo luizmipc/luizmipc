@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-💼 I'm currently working with Django, Docker, and Bootstrap
+💼 I'm currently working with <strong>Django</strong>, <strong>Docker</strong>, and <strong>Bootstrap</strong>
 </p>
 
 <p align="center">
