@@ -1,8 +1,8 @@
 ### luizmipc
 
-<p align="center">
-I'm a full-stack developer, a member of <a href="https://fuzzylab.tech/">FuzzyLab</a> <strong>innovation team</strong>, and a computer science student
-</p>
+* develop with docker, django, postregeSQL, and bootstrap
+* a member of <a href="https://fuzzylab.tech/">FuzzyLab</a>innovation team, 
+* a computer science student
 
 <p align="center">
 I'm currently working with <strong>Django</strong>, <strong>Docker</strong>, and <strong>Bootstrap</strong>
@@ -14,7 +14,6 @@ I'm currently learning <strong>Spring</strong> Framework Java/Kotlin and <strong
 
 <h2 align="center">🔧 Tech Stack 🔧</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,docker,javascript,bootstrap" />
-  </a>
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
 </p>
